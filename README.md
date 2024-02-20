@@ -2,6 +2,7 @@
 
 Este repositório suporta a Unidade Curricular´(UC) "71101 - Arte, Cultura e Comunicação na Era Digital" da Lic. "Tecnologias e Programação de Sistemas de Informação" (cf. [Tecnologias de Informação, Web e Multimédia](https://www.ipmaia.pt/pt/ensino/oferta-formativa/ctesp/tecnologias-e-programacao-de-sistemas-de-informacao)).
 
+**Nota:** Alguns dos apontadores desta página não estão activos neste momento, ficarão activos após as primeiras aulas da UC.
 
 ## Ficha Curricular
 
