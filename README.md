@@ -74,15 +74,16 @@ https://www.artsteps.com/view/64868b8c8b9856e43b38f97b
 
 ## Exames de Anos anteriores
 
-De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o exame do ano anterior:
-- [Parte Teórico-prática](./Exames/exame 30jun2023.docx)
-- [Parte Prática](./Exames/exame 14jul2023.docx)
+Os exames do ano anterior são disponibilizados a título meramente ilustrativo:
+- [Parte Teórico-prática](./Exames/exame%2030jun2023.docx)
+- [Parte Prática](./Exames/exame%2014jul2023.docx)
 
 ## Slides
 Slides utilizados nas aulas: 
 
-- Como consultar os Sumários das Aulas [Consulta de Sumários.pptx](./Consulta%20de%20Sumários.pptx)
 - Linhas Orientadoras para os Projectos e Relatórios 1 e 2 [Projectos 1 e 2 - Linhas orientadoras](./Projectos%201%20e%202%20-%20Linhas%20orientadoras.pptx)
+- Como consultar os Sumários das Aulas [Consulta de Sumários.pptx](./Consulta%20de%20Sumários.pptx)
+
 
 **Nota**: A consulta destes slides não dispensa a leitura e estudo das Referências Bibliográficas desta Unidade Curricular (cf. [Ficha Curricular](https://docs.google.com/document/d/1mSEmZ_jOFxvaaAr46B1eOA7sIM96TIdybzZhTtkYmPM/edit))
 
