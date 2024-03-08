@@ -88,6 +88,10 @@ Slides utilizados nas aulas:
 **Nota**: A consulta destes slides não dispensa a leitura e estudo das Referências Bibliográficas desta Unidade Curricular (cf. [Ficha Curricular](https://docs.google.com/document/d/1mSEmZ_jOFxvaaAr46B1eOA7sIM96TIdybzZhTtkYmPM/edit))
 
 
-Maia, 20 de Fevereiro de 2024
+## Folha de cálculo para escolha de tema de Projecto
+
+- [Folha de cálculo](https://docs.google.com/spreadsheets/d/1P2yIXl9hiVxx6deF6zteKaIeYJjAr71lAMwQTdpN2Tw/edit?usp=sharing)
+
+Maia, 8 de Março de 2024
 
 Pedro Pimenta
