@@ -6,7 +6,7 @@ Este repositório suporta a Unidade Curricular´(UC) "71101 - Arte, Cultura e Co
 
 ## Ficha Curricular
 
-A Ficha Curricular está disponível [neste link](https://docs.google.com/document/d/1mSEmZ_jOFxvaaAr46B1eOA7sIM96TIdybzZhTtkYmPM/edit). 
+A Ficha Curricular está disponível via [https://bit.ly/ACCEDPCP](https://bit.ly/ACCEDPCP). 
 
 
 ## Plataforma Moodle
@@ -19,16 +19,16 @@ Chave de autoinscrição: ACCED-2324
 ## Portfolio
 
 De forma a orientar os trabalhos do corrente ano lectivo, é disponibilizado o portfolio da Unidade Curricular:
-### Relatório de Pesquisa 
+### Relatório (intercalar, meio do Semestre)
 
 ([Relatório 1](./ACCED%20-%20Relatório%201%20-%20Relatório%20Intercalar%20de%20Pesquisa))
 
-### Relatório Final
+### Relatório Final (momento de entrega do Projecto)
 
 ([Relatório 2](./ACCED%20-%20Relatório%202%20-%20Pesquisa%20+%20ArtSteps%20(ou%20outra%20plataforma)))
 
 
-### Exposições ArtSteps
+### Projecto (Exposições ArtSteps)
 
 https://www.artsteps.com/view/625e6b8b2b78e7d70f7bebe1
 https://www.artsteps.com/view/629db0ce4094a6c0962563a6
