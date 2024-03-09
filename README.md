@@ -81,7 +81,7 @@ Os exames do ano anterior são disponibilizados a título meramente ilustrativo:
 ## Slides
 Slides utilizados nas aulas: 
 
-- Linhas Orientadoras para os Projectos e Relatórios 1 e 2 [Projectos 1 e 2 - Linhas orientadoras](./Projectos%201%20e%202%20-%20Linhas%20orientadoras.pptx)
+- Linhas Orientadoras para os Relatórios e Projecto [Relatórios e Projecto - Linhas orientadoras](./Relatórios%20e%20Projecto%20-%20Linhas%20orientadoras.pptx)
 - Como consultar os Sumários das Aulas [Consulta de Sumários.pptx](./Consulta%20de%20Sumários.pptx)
 
 
@@ -92,6 +92,6 @@ Slides utilizados nas aulas:
 
 - [Folha de cálculo](https://docs.google.com/spreadsheets/d/1P2yIXl9hiVxx6deF6zteKaIeYJjAr71lAMwQTdpN2Tw/edit?usp=sharing)
 
-Maia, 8 de Março de 2024
+Maia, 9 de Março de 2024
 
 Pedro Pimenta
