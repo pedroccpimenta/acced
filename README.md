@@ -72,7 +72,7 @@ https://www.artsteps.com/view/6450d86847d3f0013681792c
 https://www.artsteps.com/view/64868b8c8b9856e43b38f97b
 
 ### Complementos
-2D &rarrow; 3D - http://pedroccpimenta.somee.com/ultimaceia/
+2D &rarr; 3D - http://pedroccpimenta.somee.com/ultimaceia/
 
 ## Exames de Anos anteriores
 
